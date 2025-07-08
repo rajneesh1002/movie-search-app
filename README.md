@@ -26,7 +26,7 @@ lets you search, filter by genre, view details in a modal, and more.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/your-rajneesh1002/movie-search-app.git
    cd movie-search-app
 
 2. **Install dependencies**
